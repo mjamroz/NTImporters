@@ -2,7 +2,7 @@
 
 import functools
 from typing import Optional
-
+should fail
 import openapi_client as nt
 from ntimporters.utils import (
     API_HOST,
